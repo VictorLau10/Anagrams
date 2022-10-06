@@ -20,6 +20,8 @@ import java.util.Scanner;
  * The game will ask you if you would like to see the solutions. If so,
  * the solutions will be shown. If the number of solutions is greater than 150,
  * it will separate the solutions into two pages.
+ *
+ * Note: This version will only run colors with Visual Code Studio
  */
 
 public class LauVictorAnagrams
