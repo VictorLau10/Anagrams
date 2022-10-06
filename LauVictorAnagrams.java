@@ -21,7 +21,7 @@ import java.util.Scanner;
  * the solutions will be shown. If the number of solutions is greater than 150,
  * it will separate the solutions into two pages.
  *
- * Note: This version will only run colors with Visual Code Studio
+ * Note: This version will only run colors with Visual Studio Code
  */
 
 public class LauVictorAnagrams
